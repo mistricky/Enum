@@ -1,0 +1,16 @@
+{
+  "name": "enum",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  },
+  "files": [
+    "bld"
+  ],
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
